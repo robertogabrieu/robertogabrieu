@@ -12,7 +12,8 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67011968/182455545-012868cb-dd78-442a-af4e-ac6750da501a.jpg" />
+<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67011968/182458742-a585e342-77d5-43eb-8cb9-312c3572554f.jpg" />
+
 
 - 👨🏽‍💻 I’m currently working on several projects at [DKMA Tecnologia e Marketing](https://github.com/DKMA-Tecnologia-e-Marketing);
 - 🌱 I’m currently learning NodeJS and ReactJS; 
@@ -26,7 +27,7 @@
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p>
+<div>
   <a href="https://github.com/robertogabrieu/">
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=robertogabrieu&show_icons=true&hide_border=true" />
   </a>
@@ -37,4 +38,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-</p>
+</div>
