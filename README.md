@@ -17,7 +17,6 @@
 
 - 👨🏽‍💻 I’m currently working on several projects at [DKMA Tecnologia e Marketing](https://github.com/DKMA-Tecnologia-e-Marketing);
 - 🌱 I’m currently learning NodeJS and ReactJS; 
-- 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am a Seventh-day Adventist;
 - 📫 How to reach me: rg.almeida2012@gmail.com;
