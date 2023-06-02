@@ -8,14 +8,7 @@
 
 &nbsp;
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/67011968/182458742-a585e342-77d5-43eb-8cb9-312c3572554f.jpg" />
-
-
-- 👨🏽‍💻 I’m currently working on several projects at [DKMA Tecnologia e Marketing](https://github.com/DKMA-Tecnologia-e-Marketing);
+- 👨🏽‍💻 I’m currently working on several projects at [Cantacom](https://www.cantacom.com.br);
 - 🌱 I’m currently learning NodeJS and ReactJS; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am a Seventh-day Adventist;
@@ -27,9 +20,6 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <div>
-  <a href="https://github.com/robertogabrieu/">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=robertogabrieu&show_icons=true&hide_border=true" />
-  </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
