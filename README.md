@@ -9,7 +9,7 @@
 &nbsp;
 
 - 👨🏽‍💻 I’m currently working on several projects at [Cantacom](https://www.cantacom.com.br);
-- 🌱 I’m currently learning NodeJS and ReactJS; 
+- 🌱 I’m currently learning Laravel, Livewire and VueJS; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I am a Seventh-day Adventist;
 - 📫 How to reach me: rg.almeida2012@gmail.com;
