@@ -20,7 +20,7 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <div>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
